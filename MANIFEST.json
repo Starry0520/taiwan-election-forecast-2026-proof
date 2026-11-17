@@ -1,0 +1,20 @@
+{
+  "commitment_type": "pre_election_sha256",
+  "research_version": "G41-RESEARCH-20261117-09",
+  "data_cutoff_local": "2026-11-16T22:34:00+08:00",
+  "locked_version_local": "2026-11-17T14:21:00+08:00",
+  "public_commit_timestamp": "see_public_github_commit_history_after_publication",
+  "full_forecast_files_published_in_public_repo": false,
+  "files": [
+    {
+      "name": "FORECAST-22-COUNTIES-20261117.md",
+      "size_bytes": 6423,
+      "sha256": "076a1f45d038246a7b367bd82f1d5b8130eddc2bae42db7f8d57f02abbc798bf"
+    },
+    {
+      "name": "G41-RESEARCH-20261117-09.md",
+      "size_bytes": 83498,
+      "sha256": "9b623e44f26079400a943e1d3b4ab433613f44647399a7d54785221e344be9b4"
+    }
+  ]
+}
