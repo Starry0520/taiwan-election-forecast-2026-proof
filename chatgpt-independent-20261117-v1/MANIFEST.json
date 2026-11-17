@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "commitment_type": "pre_election_sha256",
+  "category": "independent_chat_historical_snapshot",
+  "archive_version": "chat-independent-v1",
+  "scope": "Transcribed snapshot of a prior ChatGPT 22-county tier table, NOT G41/GEN4 research and NOT a fully validated latest-polls election forecast.",
+  "original_private_file": {
+    "name": "CHATGPT-INDEPENDENT-22-COUNTIES-20261117-v1.md",
+    "size_bytes": 6163,
+    "sha256": "d1cda7c1973ea65ba7a2619e48d1a8ba3f3cec0b1c9c588b690c5ec7de904485",
+    "encoding": "UTF-8",
+    "line_endings": "LF",
+    "private_nonce_included": true,
+    "published": false
+  },
+  "private_transcript_created_local": "2026-11-17T22:39:12+08:00",
+  "original_chat_message_exact_time_verified": false,
+  "first_public_hash_commit": {
+    "sha": "9ee43d0a3ef6bd611b6c07432b5ac4c6494cf482",
+    "committed_at_utc": "2026-11-17T14:40:47Z",
+    "link": "https://github.com/Starry0520/taiwan-election-forecast-2026-proof/commit/9ee43d0a3ef6bd611b6c07432b5ac4c6494cf482"
+  },
+  "validation": {
+    "region_count": 22,
+    "tier_count_verified": true,
+    "official_final_candidate_list_fully_verified": false,
+    "all_latest_polls_fully_verified": false,
+    "probability_calibration_done": false
+  },
+  "distinct_from": "G41-RESEARCH-20261117-09",
+  "post_election_reveal_only": true
+}

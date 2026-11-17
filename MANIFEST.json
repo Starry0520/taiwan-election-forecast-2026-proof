@@ -16,17 +16,5 @@
       "size_bytes": 83498,
       "sha256": "9b623e44f26079400a943e1d3b4ab433613f44647399a7d54785221e344be9b4"
     }
-  ],
-  "independent_chat_snapshot": {
-    "name": "CHATGPT-INDEPENDENT-22-COUNTIES-20261117-v1.md",
-    "size_bytes": 6163,
-    "sha256": "d1cda7c1973ea65ba7a2619e48d1a8ba3f3cec0b1c9c588b690c5ec7de904485",
-    "transcript_capture_local": "2026-11-17T22:39:12+08:00",
-    "recorded_prior_chat_date": "2026-11-17",
-    "scope": "Historic transcription of ChatGPT conversation's 22-region independent tier table; separate from G41 research; not a new or fully validated forecast",
-    "private_original_published": false,
-    "nonce_in_private_file": true,
-    "validation_status": "counts_checked; official candidate rosters and all recent polls NOT comprehensively validated",
-    "public_commit_timestamp": "refer to the actual GitHub commit first containing this hash"
-  }
+  ]
 }
